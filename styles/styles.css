@@ -1,0 +1,91 @@
+body {
+    background-color:rgb(240, 248, 248);
+}
+
+
+.container-avatar{
+    padding: 50px;
+   
+    background-color: rgb(241, 239, 239);
+    text-align: center;
+   
+    width: 250;
+    height:100px;
+    margin: 0 auto;
+    display: block;
+   
+    
+}
+
+
+
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    border-radius:90px;
+    
+
+}
+
+/*Aqui empieza la seccion de About me*/
+.about-me{
+    padding: 10px 10px 10px 20px;
+    background-color:rgb(241, 61, 151);
+    font-size: 20px;
+    text-align: center;
+    
+    height:150px;
+    width: 200px;
+    margin: 0 auto;
+    display: nowrap;
+
+}
+
+.redes{
+    
+    background-color: beige;
+    
+}
+
+
+
+.logo-red{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+   
+}
+
+.redes button{
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    height:250px;
+    
+}
+
+.redes-nombre{
+    display: block;
+}
+
+.facebook{
+    background-color: hsl(240, 20%, 96%);  
+}
+
+.instagram{
+    background-color: hsl(240, 20%, 96%);  
+}
+
+.whatsapp{
+    background-color: hsl(240, 20%, 96%);  
+}
+
+.linkedin{
+    background-color: hsl(240, 20%, 96%);  
+}
+
+.twitter{
+    background-color: hsl(240, 20%, 96%);  
+}
